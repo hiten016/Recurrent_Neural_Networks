@@ -1,6 +1,6 @@
 # Recurrent_Neural_Networks
-Implementation on different datasets
-LSTM on IMDB dataset
-RNN on Shakespeare Dataset
-Weather Prediction model
+Implementation on different datasets <br>
+LSTM on IMDB dataset <br>
+RNN on Shakespeare Dataset <br>
+Weather Prediction model <br>
 Time series - ARIMA, SARIMA 
